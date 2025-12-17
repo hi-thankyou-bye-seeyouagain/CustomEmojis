@@ -96,5 +96,9 @@
         });
     }
 
-    replaceEmojis(document.body);
+    window.addEventListener('load', function() {
+        setTimeout(function() {
+            replaceEmojis(document.body);
+        }, 0);
+    });
 }
