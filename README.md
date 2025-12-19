@@ -33,17 +33,18 @@ HTML 파일의 `<head>` 태그 안이나 `</body>` 태그 직전에 아래 코�
 |:---:|:---:|
 |:blobangery:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangery.webp" width="20">|
 |:blobangry:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangry.webp" width="20">|
+|:blobaww:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobaww.webp" width="20">|
 |:blobcry:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobcry.webp" width="20">|
+|:blobdead:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobdead.webp" width="20">|
 |:blobfearful:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobfearful.webp" width="20">|
 |:blobimfine:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobimfine.webp" width="20">|
-|:blobaww:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobaww.webp" width="20">|
+|:blobpats:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobpats.webp" width="20">|
 |:blobrofl:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobrofl.webp" width="20">|
 |:blobsad:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobsad.webp" width="20">|
 |:blobsadrain:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobsadrain.webp" width="20">|
-|:blobdead:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobdead.webp" width="20">|
-|:blobpats:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobpats.webp" width="20">|
 |:blobsob:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobsob.webp" width="20">|
 |:blobthinking:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthinking.webp" width="20">|
+|:blobthumbsup:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthumbsup.webp" width="20">|
 |:blobyum:|<img src="https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobyum.webp" width="20">|
 
 [이모지가 적용된 블로그 글](https://simnple.tistory.com/22)
