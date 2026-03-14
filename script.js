@@ -18,7 +18,7 @@
             "blobsob": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobsob.webp",
             "blobthinking": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthinking.webp",
             "blobthumbsup": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthumbsup.webp",
-            "blobyum": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobyum.webp"
+            "blobyum": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobyum.webp",
             "zanmangawk": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/zanmangawk.jpeg"
         }
     };
